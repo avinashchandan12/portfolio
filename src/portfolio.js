@@ -202,7 +202,7 @@ const bigProjects = {
       projectDesc: "Fully funtional website for a real estate company : Coast 2 Coast property solutions",
       footerLink: [
         {
-          name: "Coast2Coast Property Solutions",
+          name: "Coast 2 Coast Property Solutions",
           url: "https://coast2coastpropertysolutions.com"
         }
       ]
