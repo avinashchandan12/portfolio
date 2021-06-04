@@ -198,7 +198,7 @@ const bigProjects = {
   projects: [
 
     {
-      projectName: "Coast2Coast Property Solutions",
+      projectName: "Coast 2 Coast Property Solutions",
       projectDesc: "Fully funtional website for a real estate company : Coast 2 Coast property solutions",
       footerLink: [
         {
